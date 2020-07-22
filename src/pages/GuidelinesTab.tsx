@@ -8,7 +8,7 @@ const GudelinesTab: React.FC = () => {
     <IonPage>
       <IonHeader>
         <IonToolbar>
-          <IonTitle>Covid-19 Dashboard Using Ionic and React</IonTitle>
+          <IonTitle>Covid-19 Dashboard Using Ionic React</IonTitle>
         </IonToolbar>
       </IonHeader>
       <IonContent>
